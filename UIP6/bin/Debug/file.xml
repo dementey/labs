@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<ArrayOfCompanyMail xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CompanyMail>
+    <Address>ул. Академика 12-1</Address>
+    <Index>112231</Index>
+    <City>Минск</City>
+    <Country>Беларусь</Country>
+    <Name>ИП Гефест</Name>
+  </CompanyMail>
+  <CompanyMail>
+    <Address>ул. Гнездовское 15</Address>
+    <Index>123123</Index>
+    <City>Минск</City>
+    <Country>Беларусь</Country>
+    <Name>ОАО Пенек</Name>
+  </CompanyMail>
+  <CompanyMail>
+    <Address>11</Address>
+    <Index>22</Index>
+    <City>33</City>
+    <Country>44</Country>
+    <Name>55</Name>
+  </CompanyMail>
+</ArrayOfCompanyMail>
